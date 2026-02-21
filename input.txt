@@ -1,0 +1,39 @@
+SoftGrowTech — Sample Contact Data File
+========================================
+Use this file to test the email extractor script.
+The script will scan through this entire file and pull out every email address it finds.
+
+--- HR Department ---
+The HR manager can be reached at hr.manager@softgrowtech.com for all onboarding queries.
+For payroll, contact payroll@softgrowtech.com or backup contact finance.dept@softgrowtech.org.
+
+--- Intern Applications ---
+We received applications from the following candidates this week:
+  - Alice Johnson     → alice.johnson@gmail.com
+  - Bob Patel         → bob.patel99@yahoo.com
+  - Carla Mendes      → carla_mendes@outlook.com
+  - David Kim         → d.kim+intern@hotmail.com
+  - Eva Nkosi         → eva.nkosi@university.ac.za
+
+--- Project Team ---
+Backend lead: raj.sharma@devteam.io
+Frontend dev: priya.mehta@devteam.io
+QA Engineer: testing.team@softgrowtech.com (shared inbox)
+DevOps: ops-alerts@infra.softgrowtech.com
+
+--- Newsletter Subscribers ---
+The following users opted into the monthly newsletter:
+subscriber1@example.com, newsletter.fan@domain.co, repeat@example.com
+
+Some lines contain malformed addresses that should NOT be matched:
+  - not-an-email
+  - @missinglocal.com
+  - missingdomain@
+  - plaintext with no address
+
+--- Duplicate Test ---
+alice.johnson@gmail.com appears again here (should only appear once in output).
+Eva.Nkosi@University.Ac.Za appears with different casing (should be deduplicated).
+
+--- End of File ---
+Contact support at support@softgrowtech.com for any questions.

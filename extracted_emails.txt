@@ -1,0 +1,24 @@
+=======================================================
+  EXTRACTED EMAIL ADDRESSES
+  Generated : 2026-02-21 11:14:32
+  Total     : 16 unique email(s) found
+=======================================================
+
+    1.  alice.johnson@gmail.com
+    2.  bob.patel99@yahoo.com
+    3.  carla_mendes@outlook.com
+    4.  d.kim+intern@hotmail.com
+    5.  eva.nkosi@university.ac.za
+    6.  finance.dept@softgrowtech.org
+    7.  hr.manager@softgrowtech.com
+    8.  newsletter.fan@domain.co
+    9.  ops-alerts@infra.softgrowtech.com
+   10.  payroll@softgrowtech.com
+   11.  priya.mehta@devteam.io
+   12.  raj.sharma@devteam.io
+   13.  repeat@example.com
+   14.  subscriber1@example.com
+   15.  support@softgrowtech.com
+   16.  testing.team@softgrowtech.com
+
+=======================================================
